@@ -19,7 +19,7 @@
 | [ x ] | B6 — Estil bàsic (CSS o Tailwind) | 0,4 |
 | [ x ] | B7 — Carpetes `app/` i `components/` | 0,3 |
 | [ x ] | B8 — Frontend arrenca sense errors bloquejants | 0,1 |
-| | **Subtotal B** | **___ / 3,0** |
+| | **Subtotal B** | **3 / 3,0** |
 
 ### C. API (`apps/api`) — màx. 3,0 · PR: ___
 

@@ -12,11 +12,11 @@
 | --- | --- | --- |
 | [ x ] | B0 — Monorepo amb `apps/web` i `apps/api` | 0,2 |
 | [ x ] | B1 — `app/page.tsx` amb títol | 0,2 |
-| [ ] | B2 — `app/events/page.tsx` funcional | 0,4 |
-| [ ] | B3 — `EventCard` reutilitzable | 0,5 |
-| [ ] | B4 — Targetes amb `id`, `nom`, `data`, `ciutat` | 0,6 |
-| [ ] | B5 — Almenys 4 events visibles | 0,3 |
-| [ ] | B6 — Estil bàsic (CSS o Tailwind) | 0,4 |
+| [ x ] | B2 — `app/events/page.tsx` funcional | 0,4 |
+| [ x ] | B3 — `EventCard` reutilitzable | 0,5 |
+| [ x ] | B4 — Targetes amb `id`, `nom`, `data`, `ciutat` | 0,6 |
+| [ x ] | B5 — Almenys 4 events visibles | 0,3 |
+| [ x ] | B6 — Estil bàsic (CSS o Tailwind) | 0,4 |
 | [ ] | B7 — Carpetes `app/` i `components/` | 0,3 |
 | [ ] | B8 — Frontend arrenca sense errors bloquejants | 0,1 |
 | | **Subtotal B** | **___ / 3,0** |

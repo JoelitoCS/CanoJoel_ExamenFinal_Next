@@ -6,6 +6,9 @@ export default function Home() {
       <h1 className="text-4xl font-bold text-gray-800 dark:text-white">
         Examen Final - DAW2 - Joel Cano
       </h1>
+      <a className="mt-4 text-blue-600 hover:text-blue-700" href="/events">
+        Ver eventos
+      </a>
     </div>
   );
 }

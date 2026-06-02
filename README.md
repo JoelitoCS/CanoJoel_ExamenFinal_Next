@@ -17,7 +17,7 @@
 | [ x ] | B4 — Targetes amb `id`, `nom`, `data`, `ciutat` | 0,6 |
 | [ x ] | B5 — Almenys 4 events visibles | 0,3 |
 | [ x ] | B6 — Estil bàsic (CSS o Tailwind) | 0,4 |
-| [ ] | B7 — Carpetes `app/` i `components/` | 0,3 |
+| [ x ] | B7 — Carpetes `app/` i `components/` | 0,3 |
 | [ ] | B8 — Frontend arrenca sense errors bloquejants | 0,1 |
 | | **Subtotal B** | **___ / 3,0** |
 

@@ -52,10 +52,10 @@
 
 | | Criteri | Punts |
 | --- | --- | --- |
-| [ ] | E1 — README **només** aquest checklist (res més) | 0,3 |
+| [ x ] | E1 — README **només** aquest checklist (res més) | 0,3 |
 | [ ] | E2 — Checklist B, C, D complet | 0,2 |
-| [ ] | E3 — Els `[x]` coincideixen amb el codi | 0,2 |
-| [ ] | E4 — PR B mergeada (enllaç a dalt) | 0,1 |
+| [ x ] | E3 — Els `[x]` coincideixen amb el codi | 0,2 |
+| [ x ] | E4 — PR B mergeada (enllaç a dalt) | 0,1 |
 | [ ] | E5 — PR C mergeada (enllaç a dalt) | 0,1 |
 | [ ] | E6 — PR D mergeada (enllaç a dalt) | 0,1 |
 | | **Subtotal E** | **___ / 1,0** |
